@@ -1,0 +1,14 @@
+body{background-color: aqua;}
+            h2{background-color:black;color: blueviolet;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+            h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;background-color: navy;}
+            h3{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-color:olivedrab;}
+            h4{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;background-color: hotpink;}
+            h5{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;background-color: forestgreen;}
+            h6{font-family: Verdana, Geneva, Tahoma, sans-serif;background-color:darkkhaki;}
+            p{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;background-color: aquamarine;}
+            ul{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;background-color: goldenrod;}
+            ol{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background-color: beige;}
+            title{background-color: violet;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+            blockquote{background-color: darkolivegreen; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+            .titi{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;background-color: black;color: white;}
+            dl{background-color: teal;font-family: Verdana, Geneva, Tahoma, sans-serif;}
